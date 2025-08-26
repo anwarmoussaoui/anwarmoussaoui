@@ -42,6 +42,6 @@ I leverage AI across different use cases and platforms to build intelligent appl
 ## 🤝 Let's Connect!
 - 💼 LinkedIn: [[linkedIn](https://www.linkedin.com/in/anwar-moussaoui/)]
 - 📧 Email: [anouar7moussaoui@gmail.com]
-- 🌐 Portfolio: [[Portfolio](https://anwarmoussaoui.pythonanywhere.com)]
+- 🌐 Portfolio: [[Portfolio](https://anwarmoussaoui.vercel.app)]
 
 ---
